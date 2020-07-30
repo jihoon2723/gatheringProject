@@ -17,7 +17,6 @@
 				<a class="navbar-brand" href="home.jsp"><img
 					src="img/mainLogo.png" style="width: 200px; height: auto;"></a>
 			</div>
-
 			<form action="LoginService" method="post" accept-charset="utf-8">
 				<!-- 로그인을 누르면 Login.jsp파일로 post 방식으로 이동 -->
 				<div class="form-group">
@@ -39,7 +38,6 @@
 					class="newJoin" href="joinForm.jsp" title="회원가입">회원가입</a>
 			</div>
 		</div>
-
 	</div>
 	<%@ include file="footer.jsp"%>
 	<!-- footer.jsp파일 불러오기 -->
